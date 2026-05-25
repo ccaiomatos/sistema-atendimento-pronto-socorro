@@ -1,0 +1,75 @@
+# =========================
+# Java
+# =========================
+
+# Arquivos compilados
+*.class
+
+# Arquivos JAR/WAR/EAR
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# =========================
+# Diretórios de build
+# =========================
+
+bin/
+out/
+build/
+target/
+
+# =========================
+# IntelliJ IDEA
+# =========================
+
+.idea/
+*.iml
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# Eclipse
+# =========================
+
+.project
+.classpath
+.settings/
+
+# =========================
+# NetBeans
+# =========================
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+
+# =========================
+# Sistema Operacional
+# =========================
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Arquivos temporários
+# =========================
+
+temp/
+tmp/
+*.tmp
